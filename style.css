@@ -1,0 +1,47 @@
+/*
+ Assignment: Bootstrap, JavaScript Lab
+ CSS for all pages of Bootstrap, JavaScript Lab
+ Author: Audrey Harmon
+ Date:   July 26, 2022
+
+ Filename: style.css
+*/
+
+.container {
+  text-align: center;
+}
+
+nav {
+  background-color: gray !important;
+}
+
+h1, h3, h5 {
+  font-family: Comic Sans;
+}
+
+button {
+  background-color: blue !important;
+}
+
+.container-fluid {
+  background-image: url("images/background.png");
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.form-row {
+  padding: 15px;
+}
+
+.map-container {
+  margin-top: 100px;
+}
+
+footer {
+  text-align: center;
+  background-color: gray;
+  height: 50px;
+}
